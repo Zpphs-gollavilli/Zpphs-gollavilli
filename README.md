@@ -43,10 +43,7 @@
 <img src="https://streak-stats.demolab.com?user=Zpphs-gollavilli&theme=shadow_green&hide_border=true&background=0d1117" alt="GitHub Streak"/>
 <img src="https://github-contributor-stats.vercel.app/api?username=Zpphs-gollavilli&limit=3&hide_border=true&theme=shadow_green&no-frame=true&background=0d1117&no-bg=true&margin-w=4&row=1&combine_all_yearly_contributions=true" height="170px" />
 <img src="https://github-profile-trophy.vercel.app/?username=Zpphs-gollavilli&theme=shadow_green&no-frame=true&no-bg=true&margin-w=4&row=1"/>
-<h3>
-<img src="https://raw.githubusercontent.com/Zpphs-gollavilli/Zpphs-gollavilli/output/snake.svg" alt="Snake animation" />
-<br>
-<img src="https://github.com/Zpphs-gollavilli/Zpphs-gollavilli/blob/main/profile-3d-contrib/profile-south-season-animate.svg" alt="3d-graph"/>
+
 </div>
 
 
