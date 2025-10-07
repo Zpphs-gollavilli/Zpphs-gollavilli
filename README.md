@@ -126,4 +126,19 @@ Windows                      29 hrs 3 mins   ███████████�
  Last Updated on 04/10/2025 00:35:11 UTC
 <!--END_SECTION:waka-->
 
+
+---
+
+### 🐍 My Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Zpphs-gollavilli/Zpphs-gollavilli/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Zpphs-gollavilli/Zpphs-gollavilli/blob/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://github.com/Zpphs-gollavilli/Zpphs-gollavilli/blob/output/github-snake.svg" />
+</picture>
+
+
+![ocean snake gif](https://github.com/Zpphs-gollavilli/Zpphs-gollavilli/blob/output/ocean.gif)
+
+
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories.
