@@ -112,6 +112,14 @@ Windows                      29 hrs 3 mins   ███████████�
 **I Mostly Code in JavaScript** 
 
  Last Updated on 04/10/2025 00:35:11 UTC
+
+
+---
+
+### 🐍 My Contribution Snake
+![snake gif](https://github.com/Guttula-Siddharth/Guttula-Siddharth/blob/output/github-snake.svg)
+
+
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories.
