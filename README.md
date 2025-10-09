@@ -44,6 +44,57 @@ const Siddu = {
 };
 ```
 
+
+<h1 align="center">💻 Tech Stack & Tools</h1>
+
+<div align="center">
+
+<!-- 🧩 Frontend -->
+<h3>🎨 Frontend</h3>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,threejs,vue,nuxtjs,bootstrap,sass,materialui,figma" />
+
+<!-- ⚙️ Backend -->
+<h3>⚙️ Backend</h3>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,go,python,django,flask,fastapi,rust,graphql,php,laravel,java,spring" />
+
+<!-- 🗄️ Databases -->
+<h3>🗄️ Databases</h3>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis,firebase,supabase,prisma" />
+
+<!-- ☁️ DevOps & Cloud -->
+<h3>☁️ DevOps & Cloud</h3>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,vercel,netlify,heroku,docker,kubernetes,nginx,jenkins,terraform,githubactions,cloudflare" />
+
+<!-- 🧠 AI / ML & Data -->
+<h3>🧠 AI / ML & Data</h3>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,jupyter" />
+
+<!-- 🧰 Tools & Utilities -->
+<h3>🧰 Tools & Utilities</h3>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,notion,linux,bash,powershell,figma,vite,webpack,babel,eslint,prettier,storybook" />
+
+<!-- ⚡ Other Languages -->
+<h3>🌐 Other Languages</h3>
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,r,swift,kotlin,dart" />
+
+<!-- 🧩 Additional -->
+<h3>🛠️ Additional</h3>
+<img src="https://skillicons.dev/icons?i=unity,unreal,blender,androidstudio,flutter,electron" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="150" />
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=blueviolet&style=flat-square" alt="views" />
+</p>
+
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b>
 
 ---
