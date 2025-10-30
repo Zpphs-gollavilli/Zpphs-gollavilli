@@ -1,37 +1,41 @@
-name: Snakegithub
+name: Generate Snake Animation 🐍
 
-
-
+# Controls when the action will run
 on:
-
-  # Schedule the workflow to run daily at midnight UTC
-
   schedule:
-
+    # Runs every day at midnight (UTC)
     - cron: "0 0 * * *"
+  workflow_dispatch: # allows manual trigger from the Actions tab
 
-
-
-  # Allow manual triggering of the workflow
-
-  workflow_dispatch:
-
-
-
-  # Trigger the workflow on pushes to the main branch
-
-  push:
-
-    branches:
-
-      - main
-
-
-
+# Job definition
 jobs:
-
-  generate:
-
+  build:
+    name: Generate Snake from GitHub Contributions
     runs-on: ubuntu-latest
 
-    timeout-minutes: 10
+    steps:
+      # Step 1 — Checkout your repository
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Step 2 — Generate the Snake files (SVG, Dark SVG, and GIF)
+      - name: Generate snake files
+        uses: Platane/snk@v3
+        with:
+          # GitHub username to use for generating the snake
+          github_user_name: ${{ github.repository_owner }}
+
+          # List of output files to create (each line is one file)
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      # Step 3 — Push the generated files to the 'output' branch
+      - name: Push generated files to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output    # branch where files will be stored
+          build_dir: dist          # directory where the files were generated
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
