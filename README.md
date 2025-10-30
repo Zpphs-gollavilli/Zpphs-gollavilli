@@ -13,7 +13,8 @@
 
 ```javascript
 const Siddu = {
-    Aboutme: A powerful smash on the court, a smart move on the chessboard, a melody in the heart, and code in the mind — that’s me!
+    Aboutme: A powerful smash on the court, a smart move on the chessboard,
+             a melody in the heart, and code in the mind — that’s me!
     pronouns: "He" | "Him",
     code: ["TypeScript", "Javascript", "Python", "Dart", "HTML" , "css", "threeJS" "webgl"],
     askMeAbout: [" full stack web dev", "UI/UX", "tech trends"],
